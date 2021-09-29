@@ -4,10 +4,10 @@
 ![img](https://i.imgur.com/Lfr9B8j.png)
 
 
-title Template-website 
-author DeVolutions
-[WebsitE](https://www.devolutions.it/)  
-[Discord](https://discord.gg/j4rVsMHPuG)
-[Instagram](https://www.instagram.com/devolutions_ita/)
-[Twitter](https://twitter.com/DeVolutions_ita)
+title Template-website <br>
+author DeVolutions <br>
+[WebsitE](https://www.devolutions.it/)  <br>
+[Discord](https://discord.gg/j4rVsMHPuG) <br>
+[Instagram](https://www.instagram.com/devolutions_ita/) <br>
+[Twitter](https://twitter.com/DeVolutions_ita) <br>
 [GitHub](https://github.com/DeVolutions-ita)
