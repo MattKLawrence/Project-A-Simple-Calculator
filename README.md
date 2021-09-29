@@ -4,7 +4,7 @@
 ![img](https://i.imgur.com/Lfr9B8j.png)
 
 
-[<h1>Website</h1>](https://www.devolutions.it/) [img](https://maxcdn.icons8.com/Share/icon/Logos/discord_logo1600.png) <br>
+[<h1>Website</h1>](https://www.devolutions.it/) ![img](https://th.bing.com/th/id/R.5ea061fa9b92541e119983b570e48272?rik=FPgCwOlEQrwqEw&riu=http%3a%2f%2fbeeimg.com%2fimages%2fg00282193071.png&ehk=91vxwVEd5w8va85RNnj6oyp%2bhP8JditJx8G4WNKgv7w%3d&risl=&pid=ImgRaw&r=0) <br>
 
 [<h1>Discord</h1>](https://discord.gg/j4rVsMHPuG) <br>
 
