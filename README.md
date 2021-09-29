@@ -11,7 +11,7 @@
 
 [<h1>Discord</h1>](https://discord.gg/j4rVsMHPuG) <br>
 
-![img]() 
+![img](https://i.imgur.com/2qWBDmc.png) 
 
 [<h1>Instagram</h1>](https://www.instagram.com/devolutions_ita/) <br>
 
