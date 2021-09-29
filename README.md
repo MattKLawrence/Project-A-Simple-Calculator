@@ -6,8 +6,8 @@
 
 title Template-website 
 author DeVolutions
-Website https://www.devolutions.it/  
-Discord https://discord.gg/j4rVsMHPuG
-Instagram https://www.instagram.com/devolutions_ita/
-Twitter https://twitter.com/DeVolutions_ita
+[WebsitE](https://www.devolutions.it/)  
+[Discord](https://discord.gg/j4rVsMHPuG)
+[Instagram](https://www.instagram.com/devolutions_ita/)
+[Twitter](https://twitter.com/DeVolutions_ita)
 [GitHub](https://github.com/DeVolutions-ita)
