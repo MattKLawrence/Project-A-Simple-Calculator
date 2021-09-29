@@ -5,11 +5,11 @@
 
 ![img](https://i.imgur.com/DmzHZy7.png) 
 [<h1>Website</h1>](https://www.devolutions.it/) <br>
-
+![img](https://i.imgur.com/NmSC0HF.png) 
 [<h1>Discord</h1>](https://discord.gg/j4rVsMHPuG) <br>
-
+![img]() 
 [<h1>Instagram</h1>](https://www.instagram.com/devolutions_ita/) <br>
-
+![img]() 
 [<h1>Twitter</h1>](https://twitter.com/DeVolutions_ita) <br>
-
+![img]() 
 [<h1>GitHub</h1>](https://github.com/DeVolutions-ita) 
