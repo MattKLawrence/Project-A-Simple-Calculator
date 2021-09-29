@@ -19,6 +19,6 @@
 
 [<h1>Twitter</h1>](https://twitter.com/DeVolutions_ita) <br>
 
-![img]() 
+![img](https://i.imgur.com/VWmbCqr.png) 
 
 [<h1>GitHub</h1>](https://github.com/DeVolutions-ita) 
