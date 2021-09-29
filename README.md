@@ -6,8 +6,8 @@
 
 title Template-website <br>
 author DeVolutions <br>
-<h1> [WebsitE](https://www.devolutions.it/)  <br>
+<h1> [WebsitE](https://www.devolutions.it/) </h1>  <br>
 [Discord](https://discord.gg/j4rVsMHPuG) <br>
 [Instagram](https://www.instagram.com/devolutions_ita/) <br>
 [Twitter](https://twitter.com/DeVolutions_ita) <br>
-[GitHub](https://github.com/DeVolutions-ita) </h1>
+[GitHub](https://github.com/DeVolutions-ita) 
