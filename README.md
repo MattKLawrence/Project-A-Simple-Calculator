@@ -4,7 +4,7 @@
 ![img](https://i.imgur.com/Lfr9B8j.png)
 
 
-[<h1>Website</h1>](https://maxcdn.icons8.com/Share/icon/Logos/discord_logo1600.png(https://www.devolutions.it/) <br>
+[<h1>Website</h1>](https://www.devolutions.it/)   ![img](https://maxcdn.icons8.com/Share/icon/Logos/discord_logo1600.png) <br>
 
 [<h1>Discord</h1>](https://discord.gg/j4rVsMHPuG) <br>
 
@@ -13,4 +13,3 @@
 [<h1>Twitter</h1>](https://twitter.com/DeVolutions_ita) <br>
 
 [<h1>GitHub</h1>](https://github.com/DeVolutions-ita) 
-
