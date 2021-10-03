@@ -14,7 +14,7 @@
 
 body{
     font-family: 'Oswald', sans-serif;
-    background-image: url(/devolution_1920x1080.png);
+    background-image: url(devolution_1920x1080.png);
 }
 #operation input {
   width:80px;
@@ -31,7 +31,7 @@ body{
   background-color:rgba(170, 170, 170, 0.459);
 }
 #calcolatrice{
-  background:url(/wallpaper-devolutions-By-Snipex.png);
+  background:url(wallpaper-devolutions-By-Snipex.png);
   background-size: cover;
   background-position: center;
   width:fit-content;
